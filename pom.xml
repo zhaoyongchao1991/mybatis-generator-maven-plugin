@@ -5,10 +5,10 @@
 	<groupId>com.seeyu</groupId>
 	<artifactId>mybatis-generator-maven-plugin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mapper-plugin</name>
+	<name>mybatis-generator</name>
 	<description>Demo project for Spring Boot</description>
 
-	<packaging>maven-plugin</packaging>
+	<packaging>mybatis-generator</packaging>
 
 	<properties>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
