@@ -1,0 +1,10 @@
+package ${javaMapperPackage};
+
+import ${javaMapperType};
+
+
+@Mapper
+public interface ${javaCustomMapperName} extends ${javaMapperName} {
+
+
+}
